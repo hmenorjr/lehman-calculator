@@ -1,0 +1,37 @@
+body {
+    background-image: url('investment-background.jpg'); /* Use a suitable image */
+    background-size: cover;
+    font-family: 'Roboto', sans-serif; /* You can use Google Fonts for the font */
+    color: #333;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #ff6b6b;
+}
+
+.calculator {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin: 10px 0;
+}
+
+#result {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
