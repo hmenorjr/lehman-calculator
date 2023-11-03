@@ -1,7 +1,7 @@
 body {
-    background-image: url('investment-background.jpg'); /* Use a suitable image */
+    background-image: url('investment-background.jpg');
     background-size: cover;
-    font-family: 'Roboto', sans-serif; /* You can use Google Fonts for the font */
+    font-family: 'Roboto', sans-serif;
     color: #333;
 }
 
