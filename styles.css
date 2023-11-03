@@ -1,5 +1,5 @@
 body {
-    background-image: url('investment-background.jpg');
+    background-image: url('samson-ZGjbiukp_-A-unsplash.jpg');
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     color: #333;
@@ -14,7 +14,11 @@ body {
 
 h1 {
     text-align: center;
-    color: #ff6b6b;
+    color: #57cc99;
+}
+
+h3 {
+    color: #38a3a5;
 }
 
 .calculator {
@@ -23,6 +27,15 @@ h1 {
 
 .form-group {
     margin: 10px 0;
+}
+
+.btn-align {
+    text-align: center;
+}
+
+.btn-align button {
+    display: inline-block;
+    vertical-align: middle;
 }
 
 #result {
@@ -34,4 +47,14 @@ h1 {
 footer {
     text-align: center;
     margin-top: 20px;
+    color: #ffffff;
+}
+
+footer p a {
+    color:#ffffff;
+    text-decoration: none;
+}
+footer p a:hover {
+    color:#ffffff;
+    text-decoration: underline;
 }
